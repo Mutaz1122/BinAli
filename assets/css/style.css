@@ -4827,7 +4827,13 @@ img {
 
 .call{
   color: white; /* Set the desired color */
-  font-size: 1rem !important; 
+  font-size: 1.5rem !important; 
   text-align: center;
   padding-top:0 !important;
+}
+
+.text1{
+text-decoration: white !important;
+color: #ffffff !important;
+
 }
